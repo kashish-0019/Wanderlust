@@ -1,56 +1,86 @@
-🌍 WanderLust Project 🏡
-Project Summary
-WanderLust is a comprehensive Full Stack Web Development project designed to facilitate the browsing and booking of vacation accommodations, including houses, villas, and farmhouses. This platform allows users to add their own properties to the listing, providing a diverse range of options for potential renters. Key features include a seamless booking system that simplifies the reservation process. To enhance user experience and security, the application supports fast login. The application also boasts a dynamic server for responsive performance and an intuitive, aesthetically pleasing user interface, ensuring an engaging and efficient user experience.
+# 🌍 WanderLust 🏡
 
-Front-end 🌐
-Technologies Used: HTML, CSS, JavaScript, Bootstrap, EJS
-Features:
-📱 Responsive Design: Optimized for various devices
-🔍 User-friendly Interface: For searching and listing properties
-Back-end 🛠️
-Technologies Used: Node.js, Express.js
-Features:
-🧩 RESTful API: Handles user interactions
-🔒 User Authentication and Authorization: Using Passport.js and JWT (JSON Web Tokens)
-📄 Endpoints: For property listing, login/sign up, and user management
-🏷️ Seamless Booking System: Simplifies the reservation process
-Database 🗄️
-Database Management System: MongoDB Atlas
-Features:
-🗂️ Structured Database Schema: For efficient data management
-🔍 Database Queries: To retrieve and store property and user information
-Cloudinary Image Storage ☁️
-Image Hosting: All listing images are securely stored on Cloudinary, providing reliable and efficient image hosting. This ensures that images are easily accessible, optimized for performance, and enhance the overall user experience.
-Additional Features 🌟
-🔍 Search and Filter: Advanced system for property listings
-⭐ User Reviews and Ratings: Feature for users to review and rate properties
-🔐 Security: Ensured through encryption and data validation
-🗺️ Map Integration: For location-based features
-📊 Client/Server-side Validations: Thorough validations to ensure smooth operation
-🎨 EJS Templates: For modular routing and dynamic views
-🍪 Cookies and Sessions: For user-friendly authentication and notifications
-🏗️ MVC Architecture: For scalable and organized code
-💾 Multer: For handling file uploads
-Deployment 🚀
-The WanderLust project has been deployed using Render, connected with MongoDB Atlas for database management.
+WanderLust is a **Full Stack Web Development** project designed to facilitate browsing and booking vacation accommodations like houses, villas, and farmhouses. This platform enables users to list their own properties, making it a dynamic and interactive rental marketplace.
 
-Live Application: WanderLust
+## **Project Summary** 📖
 
-🛠️ Technologies & Packages Used:
+- Seamless **property listing & booking system**.
+- **Real-time location views** via MapTiler API.
+- **Intuitive UI** for engaging user experience.
 
-MongoDB
-Express.js
-Node.js
-Passport.js for Authentication
-Cloudinary for Image Storage
-Connect Flash for Flash Messages
-Connect Mongo for Session Storage
-Cookie Parser for Parsing Cookies
-Dotenv for Environment Variables
-EJS for Template Rendering
-Express Session for Session Handling
-Joi for Data Validation
-Mongoose for MongoDB Object Modeling
-Multer for File Uploads
-Passport Local for Local Authentication
-Passport Local Mongoose for Mongoose-Specific Authentication
+---
+
+## **Front-end 🌐**
+**Technologies Used:**  
+- HTML, CSS, JavaScript, Bootstrap, EJS  
+
+### **Features:**
+✅ **Responsive Design** – Optimized for different devices.  
+🔍 **User-friendly Interface** – Easy search & listing experience.  
+🗺️ **Mapbox API Integration** – For real-time location-based search.  
+
+---
+
+## **Back-end 🛠️**
+**Technologies Used:**  
+- Node.js, Express.js  
+
+### **Features:**
+🧩 **RESTful API** – Handles user interactions efficiently.  
+🔒 **Secure Authentication** – Using Passport.js & JWT.  
+🏷️ **Booking System** – Streamlined reservation process.  
+
+---
+
+## **Database 🗄️**
+**Database Management:** **MongoDB Atlas**  
+### **Features:**  
+🗂️ **Structured Schema** – Efficient data handling.  
+🔍 **Queries** – Retrieve & store user & property data.  
+
+---
+
+## **Cloudinary Image Storage ☁️**
+- Secure hosting for all property images.  
+- Optimized storage ensures faster load times & better user experience.  
+
+---
+
+## **Additional Features 🌟**
+🔍 **Advanced Search & Filter** – Making property browsing easy.  
+⭐ **User Reviews & Ratings** – Enhance property credibility.  
+🔐 **Security Measures** – Data encryption & validation for protection.  
+🎨 **EJS Templates** – Modular design for better routing.  
+🏗️ **MVC Architecture** – Keeps the project scalable.  
+💾 **Multer** – Handles file uploads smoothly.  
+
+---
+
+## **Deployment 🚀**
+- **Hosted on Render**, connected to **MongoDB Atlas** for database management.  
+
+🔗 **Live Application:** [WanderLust Project](https://wanderlust-155u.onrender.com)  
+
+---
+
+## **Author ✍️**
+Developed by **Kashish Singh**  
+
+This project showcases my expertise in **Full-Stack Web Development**, from **creating an intuitive UI** to **managing back-end & database functionalities** for a seamless vacation rental platform.  
+
+---
+
+## **🛠️ Technologies & Packages Used**
+- **MongoDB Atlas**  
+- **Express.js**  
+- **Node.js**  
+- **Passport.js** (Authentication)  
+- **Cloudinary** (Image Storage)  
+- **JWT** (Secure User Login)  
+- **Mongoose** (MongoDB Object Modeling)  
+- **Multer** (File Uploads)  
+- **EJS** (Templating)  
+- **Dotenv** (Environment Variables)  
+- **MapTiler API** (Location Integration)  
+
+---
