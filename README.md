@@ -59,7 +59,7 @@ WanderLust is a **Full Stack Web Development** project designed to facilitate br
 ## **Deployment 🚀**
 - **Hosted on Render**, connected to **MongoDB Atlas** for database management.  
 
-🔗 **Live Application:** [WanderLust Project](https://wanderlust-155u.onrender.com)  
+🔗 **Live Application:** [WanderLust Project](https://wanderlust-155u.onrender.com/listings)  
 
 ---
 
